@@ -76,8 +76,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments 🚀
 
 - Django Docs
-- [Open Weather map](https://openweathermap.org/)
-- [Pretty Printed](https://prettyprinted.com)
+- [Amazon](https://www.amazon.com)
+- [Codemy](https://www.codemy.com)
 
 ## 📝 License
 
